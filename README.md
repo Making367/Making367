@@ -1,9 +1,9 @@
-*[![Header](
+* [![Header](
 
-*About Me
+* About Me
 ## h
 *Latest news about me
 
-*Language
+* Language
 
-*Follow Links
+* Follow Links
